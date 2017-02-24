@@ -1,0 +1,13 @@
+{
+    "experiments": {
+        "@@enabled": true,
+        "@autosave": true,
+        "@flat-dark": true,
+        "@git": true,
+        "@mount": 0,
+        "@plugin-manager": true,
+        "@plugins": true,
+        "@sdk": true,
+        "@test": false
+    }
+}
